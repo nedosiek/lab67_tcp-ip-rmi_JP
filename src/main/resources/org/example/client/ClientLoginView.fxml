@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="595.0" prefWidth="915.0" style="-fx-background-color: grey;" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.client.controllers.ClientLoginController">
+   <children>
+      <TextField fx:id="usernameField" layoutX="347.0" layoutY="276.0" maxHeight="-Infinity" minHeight="-Infinity" nodeOrientation="LEFT_TO_RIGHT" prefHeight="43.0" prefWidth="222.0" promptText="username" style="-fx-border-radius: 3; -fx-border-color: black; -fx-text-alignment: center;" styleClass="centeredTextArea" AnchorPane.topAnchor="276.0">
+         <font>
+            <Font name="System Italic" size="18.0" />
+         </font>
+      </TextField>
+      <Button layoutX="384.0" layoutY="328.0" mnemonicParsing="false" onAction="#handleLogin" prefHeight="37.0" prefWidth="148.0" style="-fx-background-color: grey; -fx-border-radius: 5; -fx-border-color: black;" text="Login" textOverrun="CENTER_ELLIPSIS">
+         <font>
+            <Font size="19.0" />
+         </font>
+      </Button>
+      <Label layoutX="319.0" layoutY="191.0" text="Tic-tac-toe">
+         <font>
+            <Font size="58.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

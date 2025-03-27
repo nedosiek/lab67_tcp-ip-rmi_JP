@@ -1,0 +1,72 @@
+[2025-01-29 14:29:56] No port specified, using default port: 1001
+[2025-01-29 14:29:56] Server started on port 1001
+[2025-01-29 14:30:09] Server is shutting down.
+[2025-01-29 14:30:09] Server closed
+[2025-01-29 14:30:14] No port specified, using default port: 1001
+[2025-01-29 14:30:14] Server started on port 1001
+[2025-01-29 14:30:17] Server is shutting down.
+[2025-01-29 14:30:17] Server closed
+[2025-01-30 17:00:24] Port set to: 1001
+[2025-01-30 17:00:25] Server started on port 1001
+[2025-01-30 17:04:10] Registered client: ClientInfo{username='dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek', ipAddress='192.168.0.115', port=3306}
+[2025-01-30 17:04:15] Created new room: dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:04:20] Player dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek joined room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:05:37] Registered client: ClientInfo{username='fc97681e-ec40-4186-af3c-16b95372e872@Milosz', ipAddress='192.168.0.115', port=7011}
+[2025-01-30 17:05:43] Player fc97681e-ec40-4186-af3c-16b95372e872@Milosz joined room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:05:43] Player joined fc97681e-ec40-4186-af3c-16b95372e872@Milosz joined the dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek room.
+[2025-01-30 17:05:58] Player fc97681e-ec40-4186-af3c-16b95372e872@Milosz left the room. Room reset.
+[2025-01-30 17:05:58] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek was reset.
+[2025-01-30 17:05:59] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:06:00] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:06:01] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:06:01] Player dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek joined room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:06:01] Player joined dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek joined the dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek room.
+[2025-01-30 17:06:02] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:06:03] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:06:03] Player fc97681e-ec40-4186-af3c-16b95372e872@Milosz joined room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:06:03] Player joined fc97681e-ec40-4186-af3c-16b95372e872@Milosz joined the dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek room.
+[2025-01-30 17:06:43] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:06:43] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:06:43] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:06:46] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek was reset.
+[2025-01-30 17:07:21] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:07:21] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:07:23] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: draw
+[2025-01-30 17:07:23] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek was reset.
+[2025-01-30 17:07:39] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:07:39] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek ended with winner: dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek
+[2025-01-30 17:07:43] Player dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek left the room. Room reset.
+[2025-01-30 17:07:43] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek was reset.
+[2025-01-30 17:07:46] unregistered client: ClientInfo{username='dc75160d-1b70-4fb6-8e76-9bf165b8d62b@Olek', ipAddress='192.168.0.115', port=3306}
+[2025-01-30 17:07:47] Player fc97681e-ec40-4186-af3c-16b95372e872@Milosz left the room. Room reset.
+[2025-01-30 17:07:47] Room dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek was reset.
+[2025-01-30 17:07:47] Room deleted: dab62580-67ac-4512-af4b-a4b1a04f7cb2/Olek
+[2025-01-30 17:07:48] unregistered client: ClientInfo{username='fc97681e-ec40-4186-af3c-16b95372e872@Milosz', ipAddress='192.168.0.115', port=7011}
+[2025-01-30 17:33:23] Port set to: 1001
+[2025-01-30 17:33:24] Server failed: Port already in use: 1001; nested exception is: 
+	java.net.BindException: Address already in use: bind
+[2025-01-30 17:34:59] Port set to: 1001
+[2025-01-30 17:34:59] Server started on port 1001
+[2025-01-30 17:35:28] Registered client: ClientInfo{username='bdb16bfb-cc09-4bb5-bf67-bee134398e43@fhjowfu', ipAddress='172.20.10.2', port=7672}
+[2025-01-30 17:35:52] Registered client: ClientInfo{username='032f37c3-3f66-4ad9-8690-26ce9df56826@Olek', ipAddress='172.20.10.2', port=3789}
+[2025-01-30 17:36:25] Created new room: 5590972b-489c-4808-8b21-b34efed5bf98/Pokoj1
+[2025-01-30 17:36:27] Player 032f37c3-3f66-4ad9-8690-26ce9df56826@Olek joined room 5590972b-489c-4808-8b21-b34efed5bf98/Pokoj1
+[2025-01-30 17:36:32] Player bdb16bfb-cc09-4bb5-bf67-bee134398e43@fhjowfu joined room 5590972b-489c-4808-8b21-b34efed5bf98/Pokoj1
+[2025-01-30 17:36:32] Player joined bdb16bfb-cc09-4bb5-bf67-bee134398e43@fhjowfu joined the 5590972b-489c-4808-8b21-b34efed5bf98/Pokoj1 room.
+[2025-01-31 15:33:32] Port set to: 1001
+[2025-01-31 15:33:32] Server started on port 1001
+[2025-01-31 15:34:13] Registered client: ClientInfo{username='d799c5e7-2b71-4213-a309-fa5a615acf4f@olek', ipAddress='172.20.10.2', port=6995}
+[2025-01-31 15:34:44] Registered client: ClientInfo{username='99646537-456c-4021-9a72-234a6f17236b@BLAZEJ', ipAddress='172.20.10.2', port=9538}
+[2025-01-31 15:34:51] Created new room: 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop
+[2025-01-31 15:34:58] Player d799c5e7-2b71-4213-a309-fa5a615acf4f@olek joined room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop
+[2025-01-31 15:34:59] Player 99646537-456c-4021-9a72-234a6f17236b@BLAZEJ joined room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop
+[2025-01-31 15:34:59] Player joined 99646537-456c-4021-9a72-234a6f17236b@BLAZEJ joined the 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop room.
+[2025-01-31 15:35:19] Room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop ended with winner: 99646537-456c-4021-9a72-234a6f17236b@BLAZEJ
+[2025-01-31 15:35:19] Room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop ended with winner: 99646537-456c-4021-9a72-234a6f17236b@BLAZEJ
+[2025-01-31 15:36:12] Player 99646537-456c-4021-9a72-234a6f17236b@BLAZEJ left the room. Room reset.
+[2025-01-31 15:36:12] Room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop was reset.
+[2025-01-31 15:36:15] unregistered client: ClientInfo{username='99646537-456c-4021-9a72-234a6f17236b@BLAZEJ', ipAddress='172.20.10.2', port=9538}
+[2025-01-31 15:36:16] unregistered client: ClientInfo{username='d799c5e7-2b71-4213-a309-fa5a615acf4f@olek', ipAddress='172.20.10.2', port=6995}
+[2025-01-31 15:36:16] Player d799c5e7-2b71-4213-a309-fa5a615acf4f@olek left the room. Room reset.
+[2025-01-31 15:36:16] Room 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop was reset.
+[2025-01-31 15:36:16] Room deleted: 18c79804-b174-4a08-96c9-1aa518b89d52/lolipop
